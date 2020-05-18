@@ -1,4 +1,3 @@
-
 body{
 width:100%;
 margin: 0px;
@@ -6,24 +5,14 @@ padding: 0px;
 position: relative;
 height:1500px;
 }
-
-
 .slide{
   position: relative;
 }
-
 .footer{
   left: 0;
   bottom:0;
 }
-
-
 @import url("https://fonts.googleapis.com/css?family=Courgette");
-
-
-
-
-
 /********************/
 .icon {
   height: 2.5rem;
