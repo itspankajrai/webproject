@@ -16,13 +16,13 @@
           <a class="nav-link" href="#">Home</a>
         </li>
         <li class="nav-item  mx-4">
-          <a class="nav-link" href="about.php">About US</a>
+          <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item  mx-4">
           <a class="nav-link" href="#">Services</a>
         </li>
         <li class="nav-item  mx-4">
-          <a class="nav-link" href="#">Contact US</a>
+          <a class="nav-link" href="#">Contact</a>
         </li>
 
 

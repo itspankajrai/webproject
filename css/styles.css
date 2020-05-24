@@ -8,4 +8,10 @@ height:1500px;
 .slide{
   position: relative;
 }
-        
+
+/*Responsive Edge to Edge Slider */
+/* Author: Pankaj Rai */
+.container-fluid.slide{
+  padding-left: 0px;
+  padding-right: 0px;
+}
